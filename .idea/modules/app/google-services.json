@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349928874022",
+    "firebase_url": "https://lets-authenticate-48d4d.firebaseio.com",
+    "project_id": "lets-authenticate-48d4d",
+    "storage_bucket": "lets-authenticate-48d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349928874022:android:fdd72cc0ec56181ef1c6e7",
+        "android_client_info": {
+          "package_name": "com.example.letsauthenticate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349928874022-9h0g2op1d8li64111f3gli35fad8cbco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsauthenticate",
+            "certificate_hash": "9da158b707bfc05cfa71b1ae8e796641696cd039"
+          }
+        },
+        {
+          "client_id": "349928874022-b7h1f384m6mrjrlq1cipi2s72rafm1dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwgE12Kld70Qm0LhzzWUKxtXdx3Kiz8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349928874022-b7h1f384m6mrjrlq1cipi2s72rafm1dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
